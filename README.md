@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/tensorbytes0202/Data_structure/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tensorbytes0202/Data_structure/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
