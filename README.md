@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/tensorbytes0202/Data_structure/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tensorbytes0202/Data_structure/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tensorbytes0202/Data_structure/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tensorbytes0202/Data_structure/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
