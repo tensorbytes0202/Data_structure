@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tensorbytes0202/Data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
