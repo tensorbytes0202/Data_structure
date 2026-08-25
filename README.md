@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tensorbytes0202/Data_structure/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tensorbytes0202/Data_structure/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
