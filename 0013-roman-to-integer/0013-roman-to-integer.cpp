@@ -9,21 +9,22 @@ public:
         m.insert({'C',100});
         m.insert({'D',500});
         m.insert({'M',1000});
-    int ans =0;
-    for(int i =0;i<s.size();i++){
-        if(i==s.size()-1){
-            
-        ans += m[s[i]];
-        }
-    else if(m[s[i]]>=m[s[i+1]]){
-    
-    ans += m[s[i]];
+        int ans =0;
+        for(int  i =0;i<s.size();i++){
+            if(i==s.size()-1){
+                // Last character hai → simply add
+                ans+= m[s[i]];
+            }
+            else if(m[s[i]]>=m[s[i+1]]){
+                // Current >= next → add current value
+                ans += m[s[i]];
+            }
+            else{
+                // Current < next → subtract current value
 
+                ans -= m[s[i]];
+            }
         }
-    else{
-        ans -= m[s[i]];
-    }
-        }
-    return ans;
+        return ans;
     }
 };
