@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tensorbytes0202/Data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tensorbytes0202/Data_structure/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tensorbytes0202/Data_structure/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tensorbytes0202/Data_structure/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/tensorbytes0202/Data_structure/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tensorbytes0202/Data_structure/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0387-first-unique-character-in-a-string) |
