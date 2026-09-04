@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/tensorbytes0202/Data_structure/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tensorbytes0202/Data_structure/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/tensorbytes0202/Data_structure/tree/master/0383-ransom-note) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -62,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tensorbytes0202/Data_structure/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tensorbytes0202/Data_structure/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/tensorbytes0202/Data_structure/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tensorbytes0202/Data_structure/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -130,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tensorbytes0202/Data_structure/tree/master/0274-h-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
