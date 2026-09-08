@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tensorbytes0202/Data_structure/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tensorbytes0202/Data_structure/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tensorbytes0202/Data_structure/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tensorbytes0202/Data_structure/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/tensorbytes0202/Data_structure/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tensorbytes0202/Data_structure/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tensorbytes0202/Data_structure/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0387-first-unique-character-in-a-string) |
