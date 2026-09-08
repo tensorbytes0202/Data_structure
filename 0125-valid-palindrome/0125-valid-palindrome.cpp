@@ -1,11 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-     s.erase(remove_if(s.begin(), s.end(), [](char ch) {
-    return !isalnum(ch);
-}), s.end());
-
-transform(s.begin(), s.end(), s.begin(), ::tolower);
+     string temp = "";
+     for(char ch:s){
+        if(isalnum(ch)){
+            temp += tolower(ch);
+        }
+     }
+     s =temp;
          int left =0;
          int right =s.size()-1;
          while(left<right){
