@@ -1,24 +1,24 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int> mp;
-        if(s.length()!=t.length()){
+        unordered_map<char,int>mp;
+        if(s.size()!=t.size()){
             return false;
         }
-        else{
+        for(char ch:s){
+            mp[ch]++;
+        }
 
-        for(char c:s){
-            mp[c]++;
-        }
-        for(char c:t){
-            if(mp[c]==0){  // maan lo s me 3 a and and t me 2 and s
-            // ko map karwana h 3rd wale a pe s ke t khatam yani 0 ho jayega to false;
-                return false; 
+        for(char ch:t){
+            if(mp.find(ch)==mp.end()){
+                return false;
             }
-            mp[c]--;
-        }
-        }
-        return true;
+            mp[ch]--;
         
+          if (mp[ch] < 0) {
+                return false;
+            }
+    }
+        return true;
     }
 };
