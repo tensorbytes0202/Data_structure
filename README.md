@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tensorbytes0202/Data_structure/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/tensorbytes0202/Data_structure/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tensorbytes0202/Data_structure/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tensorbytes0202/Data_structure/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tensorbytes0202/Data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tensorbytes0202/Data_structure/tree/master/0169-majority-element) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tensorbytes0202/Data_structure/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tensorbytes0202/Data_structure/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
