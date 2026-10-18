@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tensorbytes0202/Data_structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/tensorbytes0202/Data_structure/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tensorbytes0202/Data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/tensorbytes0202/Data_structure/tree/master/0643-maximum-average-subarray-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
