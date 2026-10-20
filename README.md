@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/tensorbytes0202/Data_structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/tensorbytes0202/Data_structure/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/tensorbytes0202/Data_structure/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tensorbytes0202/Data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/tensorbytes0202/Data_structure/tree/master/1052-grumpy-bookstore-owner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tensorbytes0202/Data_structure/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 ## Counting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tensorbytes0202/Data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/tensorbytes0202/Data_structure/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tensorbytes0202/Data_structure/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tensorbytes0202/Data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tensorbytes0202/Data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/tensorbytes0202/Data_structure/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/tensorbytes0202/Data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/tensorbytes0202/Data_structure/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tensorbytes0202/Data_structure/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
