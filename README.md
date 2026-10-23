@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/tensorbytes0202/Data_structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/tensorbytes0202/Data_structure/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/tensorbytes0202/Data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/tensorbytes0202/Data_structure/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/tensorbytes0202/Data_structure/tree/master/0904-fruit-into-baskets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tensorbytes0202/Data_structure/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tensorbytes0202/Data_structure/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/tensorbytes0202/Data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/tensorbytes0202/Data_structure/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tensorbytes0202/Data_structure/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tensorbytes0202/Data_structure/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tensorbytes0202/Data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tensorbytes0202/Data_structure/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/tensorbytes0202/Data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/tensorbytes0202/Data_structure/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/tensorbytes0202/Data_structure/tree/master/0904-fruit-into-baskets) |
