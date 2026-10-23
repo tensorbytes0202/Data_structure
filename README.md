@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tensorbytes0202/Data_structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tensorbytes0202/Data_structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tensorbytes0202/Data_structure/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tensorbytes0202/Data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tensorbytes0202/Data_structure/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/tensorbytes0202/Data_structure/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tensorbytes0202/Data_structure/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/tensorbytes0202/Data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tensorbytes0202/Data_structure/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tensorbytes0202/Data_structure/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tensorbytes0202/Data_structure/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tensorbytes0202/Data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tensorbytes0202/Data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/tensorbytes0202/Data_structure/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tensorbytes0202/Data_structure/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/tensorbytes0202/Data_structure/tree/master/0904-fruit-into-baskets) |
