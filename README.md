@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/tensorbytes0202/Data_structure/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tensorbytes0202/Data_structure/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tensorbytes0202/Data_structure/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/tensorbytes0202/Data_structure/tree/master/0904-fruit-into-baskets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/tensorbytes0202/Data_structure/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/tensorbytes0202/Data_structure/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tensorbytes0202/Data_structure/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tensorbytes0202/Data_structure/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tensorbytes0202/Data_structure/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tensorbytes0202/Data_structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tensorbytes0202/Data_structure/tree/master/1004-max-consecutive-ones-iii) |
