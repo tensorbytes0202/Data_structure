@@ -12,7 +12,7 @@ public:
                 high = mid-1;
             }
         }
-        return letter[low%letters.size()];
+        return letters[low%letters.size()];
 
     }
 };
