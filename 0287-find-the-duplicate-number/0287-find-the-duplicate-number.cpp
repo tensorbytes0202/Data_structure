@@ -1,13 +1,23 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_set<int> st;
-        for(int i =0;i<nums.size();i++){
+        int slow =  0;
+        int fast =0;
+        while(true){
+            slow = nums[slow];
+            fast = nums[fast];
+            fast =  nums[fast];
 
-            if(st.find(nums[i])!=st.end()){
-                return nums[i];
+            if(slow==fast){
+                //cycle
+                slow =0;
+                while(slow!=fast){
+                    //meeting point startin point hoga 
+                    slow = nums[slow];
+                    fast = nums[fast];
+                }
+                return slow;
             }
-            st.insert(nums[i]);
         }
         return -1;
     }
